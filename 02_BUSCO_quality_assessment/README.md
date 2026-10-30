@@ -32,6 +32,7 @@ See [01_gene_prediction](./01_gene_prediction/) for the gene prediction workflow
 See [02_BUSCO_quality_assessment](./02_BUSCO_quality_assessment/) for the reproducible BUSCO workflow.
 
 The BUSCO analysis uses:
+
 - BUSCO version: 6.1.0
 - Lineage dataset: `pleosporales_odb12`
 - Genome mode and protein mode
