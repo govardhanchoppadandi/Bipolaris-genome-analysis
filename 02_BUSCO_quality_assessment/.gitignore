@@ -1,0 +1,9 @@
+Genome input/
+Protein input/
+BUSCO_RESULTS/
+busco_downloads/
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+.venv/
