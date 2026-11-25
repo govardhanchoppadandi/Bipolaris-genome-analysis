@@ -7,7 +7,7 @@
 # Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
 # No extrinsic information on sequences given.
 # Sources of extrinsic information: M RM 
-# Initializing the parameters using config directory /home/govardhan/miniconda3/envs/busco_latest/config/ ...
+# Initializing the parameters using config directory $AUGUSTUS_CONFIG_PATH/ ...
 # bipolaris_multi_v5_clean version. Using default transition matrix.
 # admissible start codons and their probabilities: ATG(1), CTG(0), TTG(0)
 # Looks like /mnt/d/Bipolaris_genomes/Bipolaris/GCA_000527765.2/GCA_000527765.2_ANU_Cvic_canu1.6_pilon5_genomic.fna is in fasta format.

@@ -1,11 +1,11 @@
 Created: 2026-11-24T03:29:26+00:00
 Host: Pathology2
-AUGUSTUS_CONFIG_PATH=/home/govardhan/miniconda3/envs/busco_latest/config
+AUGUSTUS_CONFIG_PATH=$AUGUSTUS_CONFIG_PATH
 
 AUGUSTUS (3.5.0) is a gene prediction tool.
 Sources and documentation at https://github.com/Gaius-Augustus/Augustus
 
-# packages in environment at /home/govardhan/miniconda3/envs/busco_latest:
+# packages in the recorded Conda environment:
 #
 # Name                         Version          Build                 Channel
 _openmp_mutex                  4.5              20_gnu                conda-forge

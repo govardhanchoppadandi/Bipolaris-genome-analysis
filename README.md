@@ -40,59 +40,9 @@ The modules are designed to maintain the connection between input data, computat
 
 ```text
 Bipolaris-genome-analysis/
-│
 ├── 01_AUGUSTUS_Gene_Prediction/
-│   ├── LICENSES/
-│   ├── accessions/
-│   ├── metadata/
-│   ├── models/
-│   ├── original_scripts/
-│   ├── results/
-│   ├── scripts/
-│   ├── test_predictions/
-│   ├── training_provenance/
-│   └── README.md
-│
 ├── 02_BUSCO_quality_assessment/
-│   ├── environment/
-│   ├── README.md
-│   ├── LICENSE
-│   └── analysis scripts
-│
-├── 03_Genome_Assembly_Quality/
-│
-├── 04_Functional_Annotation/
-│
-├── 05_Phylogeny/
-│
-├── 06_Orthology_and_Gene_Family_Analysis/
-│
-├── 07_CAFE5_Gene_Family_Evolution/
-│
-├── 08_ncRNA/
-│
-├── 09_Transposable_Elements/
-│
-├── 10_RIP_Analysis/
-│
-├── 11_McClintock/
-│
-├── 12_KEGG/
-│
-├── 13_Genome_Circos/
-│
-├── 14_Telomere_Analysis/
-│
-├── 15_Effector_Prediction/
-│
-├── data/
-├── results/
-├── supplementary/
-│
-├── README.md
-├── CITATION.cff
-├── LICENSE
-└── .gitignore
+└── README.md
 ```
 
 Each numbered directory represents a distinct analysis component. Supporting data, selected results, and supplementary materials are organized separately where appropriate.
