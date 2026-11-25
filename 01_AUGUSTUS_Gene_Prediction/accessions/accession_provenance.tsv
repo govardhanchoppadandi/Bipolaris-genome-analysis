@@ -4,4 +4,4 @@ V2	bipolaris_nd90pr_v2	Not recovered	Exact training accession inventory not avai
 V3	bipolaris_multi_v3_all21	See V3_all21_accessions.txt	21 accession folders recorded; not necessarily 21 independent genomes
 V4	bipolaris_multi_v4_advanced	Not recovered	5,250-record training sample mentioned; accession list not recovered
 V5	bipolaris_multi_v5_clean	Not recovered	57,490 GenBank training records reported; accession list not recovered
-V5_ALT	bipolaris_multi_v5_deduplicated	Not recovered	Alternative model name mentioned; training provenance not recovered
+
