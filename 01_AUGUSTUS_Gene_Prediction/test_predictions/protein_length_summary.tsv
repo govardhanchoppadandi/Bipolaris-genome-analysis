@@ -1,0 +1,7 @@
+Model	Protein_Count	Minimum_aa	Q1_aa	Median_aa	Mean_aa	Q3_aa	Maximum_aa	Proteins_lt50aa	Proteins_lt100aa	Proteins_lt150aa	Proteins_gt1000aa	Proteins_gt2000aa	Proteins_with_internal_stop_symbol	CDS_Count
+bipolaris_nd90pr	9994	66	287.0	443.0	535.75	653.0	8196	0	193	647	988	101	39	9994
+bipolaris_nd90pr_v2	10196	66	283.0	433.0	515.23	622.0	8219	0	191	668	865	86	27	10196
+bipolaris_multi_v3_all21	9931	66	291.0	444	534.31	646.0	8219	0	181	609	947	98	7	9931
+bipolaris_multi_v4_advanced	9684	66	295.0	451.0	544.15	657.0	8219	0	164	565	981	110	13	9684
+bipolaris_multi_v5_clean	9911	66	292.0	444	535.49	645.0	8219	0	180	600	964	101	12	9911
+bipolaris_multi_v5_deduplicated	9539	66	296.0	451	550.46	669.0	8219	0	157	546	1016	111	39	9539

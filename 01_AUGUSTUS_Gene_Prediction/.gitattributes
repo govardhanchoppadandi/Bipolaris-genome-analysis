@@ -1,0 +1,3 @@
+# AUGUSTUS parameter files are tracked directly by Git.
+*.pbl -text
+*.cfg text

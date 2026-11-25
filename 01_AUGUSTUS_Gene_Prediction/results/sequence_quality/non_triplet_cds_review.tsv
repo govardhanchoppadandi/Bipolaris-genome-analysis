@@ -1,0 +1,6 @@
+Model	Sequence_ID	Genome_Contig	Strand	CDS_Length	CDS_Remainder	Interpretation
+bipolaris_multi_v3_all21	g5734.t1	AMCY02000008.1	-	2141	2	Non_triplet_CDS_requires_review; not_at_contig_boundary
+bipolaris_multi_v3_all21	g9926.t1	AMCY02000019.1	-	550	1	Non_triplet_CDS_requires_review; not_at_contig_boundary
+bipolaris_multi_v4_advanced	g5586.t1	AMCY02000008.1	-	2192	2	Non_triplet_CDS_requires_review; not_at_contig_boundary
+bipolaris_multi_v5_clean	g5713.t1	AMCY02000008.1	-	2141	2	Non_triplet_CDS_requires_review; not_at_contig_boundary
+bipolaris_multi_v5_clean	g9907.t1	AMCY02000019.1	-	550	1	Non_triplet_CDS_requires_review; not_at_contig_boundary

@@ -1,0 +1,7 @@
+version	species_name	known_training_information	not_recovered_or_caveat
+V1	bipolaris_nd90pr	ND90Pr/Cocsa1; GCF_000338995.1; documented gff2gbSmallDNA.pl, randomSplit.pl, new_species.pl, etraining, optimize_augustus.pl workflow	Exact executed original script and options
+V2	bipolaris_nd90pr_v2	Trained model; BUSCO comparison available	Original training script, full input accession list, split manifest and logs
+V3	bipolaris_multi_v3_all21	21 accession list in accessions/V3_all21_accessions.txt; gene-level random split described; 2 rounds/8 CPUs described	Full original training script and exact final execution logs; paired GCA/GCF records may not be independent
+V4	bipolaris_multi_v4_advanced	5,250-record sample mentioned; two-round optimization described	Exact accession list, full script, source training file and logs
+V5	bipolaris_multi_v5_clean	57,490 GenBank records reported; deduplicated/test-overlap-filtered; 2-round/8-CPU optimization command recorded	Full data-construction code, source accession list, all logs
+V5_ALT	bipolaris_multi_v5_deduplicated	Alternative model name mentioned	Training code and provenance

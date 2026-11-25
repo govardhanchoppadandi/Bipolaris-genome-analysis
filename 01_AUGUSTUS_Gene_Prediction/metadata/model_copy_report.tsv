@@ -1,0 +1,7 @@
+model	source_found	files_copied	destination
+bipolaris_nd90pr	YES	9	/home/govardhan/Bipolaris_AUGUSTUS_GitHub/models/bipolaris_nd90pr
+bipolaris_nd90pr_v2	YES	9	/home/govardhan/Bipolaris_AUGUSTUS_GitHub/models/bipolaris_nd90pr_v2
+bipolaris_multi_v3_all21	YES	9	/home/govardhan/Bipolaris_AUGUSTUS_GitHub/models/bipolaris_multi_v3_all21
+bipolaris_multi_v4_advanced	YES	9	/home/govardhan/Bipolaris_AUGUSTUS_GitHub/models/bipolaris_multi_v4_advanced
+bipolaris_multi_v5_clean	YES	9	/home/govardhan/Bipolaris_AUGUSTUS_GitHub/models/bipolaris_multi_v5_clean
+bipolaris_multi_v5_deduplicated	YES	9	/home/govardhan/Bipolaris_AUGUSTUS_GitHub/models/bipolaris_multi_v5_deduplicated

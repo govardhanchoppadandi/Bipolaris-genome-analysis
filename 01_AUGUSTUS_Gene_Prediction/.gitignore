@@ -1,0 +1,18 @@
+# Raw genome and training input data
+*.fna
+*.fasta
+*.fa
+*.gb
+*.gb.train
+*.gb.test
+
+# Generated prediction outputs are intentionally included
+!test_predictions/
+!test_predictions/**/*.gff3
+!test_predictions/**/*.faa
+!test_predictions/**/*.fna
+
+# Temporary files and logs
+*.log
+*.tmp
+__pycache__/

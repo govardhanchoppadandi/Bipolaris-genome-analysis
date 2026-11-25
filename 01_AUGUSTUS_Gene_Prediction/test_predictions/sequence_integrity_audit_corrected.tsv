@@ -1,0 +1,7 @@
+Model	Protein_records	CDS_records	Matching_IDs	CDS_length_not_multiple_of_3	Internal_stop_codons	Translation_mismatches_after_normalization
+bipolaris_nd90pr	9994	9994	9994	0	39	0
+bipolaris_nd90pr_v2	10196	10196	10196	0	27	0
+bipolaris_multi_v3_all21	9931	9931	9931	2	7	0
+bipolaris_multi_v4_advanced	9684	9684	9684	1	13	0
+bipolaris_multi_v5_clean	9911	9911	9911	2	12	0
+bipolaris_multi_v5_deduplicated	9539	9539	9539	0	39	0

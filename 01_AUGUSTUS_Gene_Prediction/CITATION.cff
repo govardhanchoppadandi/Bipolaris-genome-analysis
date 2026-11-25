@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the archived version of this repository and the underlying software and reference assemblies."
+title: "Bipolaris AUGUSTUS Gene Prediction Models and Workflows"
+version: 1.0.0
+date-released: 2026-11-24
+abstract: "Custom AUGUSTUS species parameter directories, gene prediction workflows, accession manifests, and BUSCO comparison records for Bipolaris genomes. Consult the provenance tables for model-specific completeness."
+keywords:
+  - Bipolaris
+  - AUGUSTUS
+  - gene prediction
+  - fungal genomics
+authors:
+  - family-names: Choppadandi
+    given-names: Govardhan
+    email: GOVARDHANCHOPPADANDI@GMAIL.COM
