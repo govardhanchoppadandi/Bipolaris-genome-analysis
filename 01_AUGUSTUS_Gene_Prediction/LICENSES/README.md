@@ -27,9 +27,3 @@ These materials retain their applicable ownership, attribution
 and licensing requirements. Their redistribution permissions
 must be reviewed separately.
 
-## ChatGPT assistance
-
-ChatGPT was used as an assistance tool during script development,
-debugging and documentation. The project author reviewed and
-assembled the project. ChatGPT is not a copyright holder or
-project author.
